@@ -3,7 +3,7 @@ import ReactDOM from "react-dom"
 
 //creating a functional component
 
-function MyApp2(){
+function MyInfo(){
   //opening with a div cause we are making more than just a list
   //create a heading with your name
   return (
@@ -23,4 +23,4 @@ function MyApp2(){
     </div>
   )  
 }//end function MyApp2()
-ReactDOM.render(<MyApp2/>, document.getElementById("root"))
+ReactDOM.render(<MyInfo/>, document.getElementById("root"))
