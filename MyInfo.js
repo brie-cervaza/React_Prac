@@ -1,3 +1,5 @@
+import React from "react"
+
 function MyInfo(){
   //opening with a div cause we are making more than just a list
   //create a heading with your name
